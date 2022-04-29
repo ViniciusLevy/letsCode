@@ -69,39 +69,48 @@ public class Exercicios10 {
 //        System.out.println(regular);
 //        System.out.println((bom / 5) * 100);
 
-        int idade, opniao;
-        int opcao1 = 0, opcao2 = 0, opcao3 = 0, qtdeRegular = 0, cont3 = 0;
-        double mediaOtimo, percBom;
+        int entrevistados = 5;
+        double somaIdadeOtimo = 0;
+        int opcaoRegular = 0;
+        int opcaoBom = 0;
+        int opcaoOtimo = 0;
 
         System.out.println("**Pesquisa de opinião**");
         System.out.println("1 - Regular");
         System.out.println("2 - Bom");
         System.out.println("3 - Ótimo");
 
-        for (int i = 0; i <= 5; i++) {
+        for (int i = 0; i <= entrevistados; i++) {
             System.out.print("Digite a sua idade: ");
-            idade = entrada.nextInt();
+            int idade = entrada.nextInt();
 
             System.out.print("Digite a sua opinião: ");
-            opniao = entrada.nextInt();
+            int opniao = entrada.nextInt();
 
             if (opniao == 1) {
-                qtdeRegular++;
+                opcaoRegular++;
             } else if (opniao == 2) {
-                opcao2++;
+                opcaoBom++;
             } else if (opniao == 3) {
-                opcao3 = idade + opcao3;
-                cont3++;
+                somaIdadeOtimo += idade;
+                opcaoOtimo++;
             }
+
         }
 
-        mediaOtimo = opcao3 / cont3;
+        if (opcaoOtimo == 0) {
+            System.out.println("Sem respostas Ótimo");
+        } else {
+            System.out.printf("A media das idades das pessoas que responderam ótimo....: %.1f\n", somaIdadeOtimo / opcaoOtimo);
+        }
 
-        percBom = (opcao2 / 5) * 100;
+        System.out.printf("A quantidade de pessoas que responde regular....: %d\n", opcaoRegular);
 
-        System.out.printf("A media das idades das pessoas que responderam ótimo....: %.1f\n", mediaOtimo);
-        System.out.printf("A quantidade de pessoas que responde regular....: %d\n", qtdeRegular);
-        System.out.printf("A percentagem de pessoas que respondeu BOM entre todos os espectadores analisados....: %.1f\n", percBom);
+        if (opcaoBom > 0) {
+            System.out.printf("A percentagem de pessoas que respondeu BOM entre todos os espectadores analisados....: %.1f\n", (double) (opcaoBom / 5) * 100);
+        } else {
+            System.out.println("Não tiveram respostas BOM");
+        }
 
 
         entrada.close();
