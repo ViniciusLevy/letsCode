@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec83df8-0b1e-48a0-ba24-8bdc77bb9c2c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/letscode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letscode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/Exercicio15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/exercicio14Alternativa/AreaCirc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula01/exercicio14Alternativa/AreaCircTeste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula02/Exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula03/Exercicio12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Excercicio17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Exercicio15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula04/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicio09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula05/Exercicios10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/letscode/aula06/Exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/exercicio14Alternativa/AreaCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula01/exercicio14Alternativa/AreaCircTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula02/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula03/Exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Excercicio17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula04/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicio09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula05/Exercicios10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aula06/Exercicio01.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28TydbXWVNpAFTOyvwXDcRK3Ifm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dec83df8-0b1e-48a0-ba24-8bdc77bb9c2c" name="Changes" comment="" />
+      <created>1651254958151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651254958151</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+  </component>
+</project>
